@@ -3,3 +3,10 @@ numpy
 scikit-learn>=1.4
 matplotlib
 joblib
+streamlit
+numpy
+pandas
+joblib
+plotly
+scikit-learn
+ddgs
